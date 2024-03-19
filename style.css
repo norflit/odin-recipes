@@ -1,0 +1,21 @@
+body {
+  background-color: #1b1b1b;
+  color: #ffecc9;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+a {
+  color: inherit;
+}
+
+h1, h2, h3 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+  color: #f0be61;
+}
+
+h2, h3 {
+  color: #c9973c;
+}
